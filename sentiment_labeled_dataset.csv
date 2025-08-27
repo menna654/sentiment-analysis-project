@@ -1,0 +1,101 @@
+id,comment,score,label
+1,"I am not satisfied, the experience was horrible :)",-1,Negative
+2,Customer support was unhelpful and slow!,-2,Negative
+3,"Great product, exceeded my expectations :)",2,Positive
+4,The design is elegant and the results are impressive,2,Positive
+5,"Brilliant performance, would definitely recommend ...",2,Positive
+6,"I am not satisfied, the experience was horrible ...",-1,Negative
+7,"Great product, exceeded my expectations :(",2,Positive
+8,"Great product, exceeded my expectations :)",2,Positive
+9,Customer support was helpful and responsive.,2,Positive
+10,"Did not like it at all, bad value.",-1,Negative
+11,"I absolutely love this movie, it was fantastic.",2,Positive
+12,"Awful performance, I would not recommend",-1,Negative
+13,"Not sure yet, still testing.",-1,Negative
+14,Nothing worked properly for me :(,-1,Negative
+15,"Great product, exceeded my expectations",2,Positive
+16,"Did not like it at all, bad value",-1,Negative
+17,Everything worked perfectly for me :(,1,Positive
+18,"I am very satisfied, the experience was wonderful :)",2,Positive
+19,"Five stars, flawless from start to finish!",2,Positive
+20,"Five stars, flawless from start to finish :)",2,Positive
+21,"Average experience, neither good nor bad ...",-1,Negative
+22,"It was okay, nothing special",-1,Negative
+23,"Not sure yet, still testing :(",-1,Negative
+24,"Did not like it at all, bad value",-1,Negative
+25,"Loved it, superb value for money!",2,Positive
+26,"I am very satisfied, the experience was wonderful.",2,Positive
+27,The product works as expected!,0,Neutral
+28,"It was okay, nothing special :(",-1,Negative
+29,"Awful performance, I would not recommend.",-1,Negative
+30,"I am very satisfied, the experience was wonderful ...",2,Positive
+31,"Awful performance, I would not recommend ...",-1,Negative
+32,I tried it briefly and it seemed fine ...,0,Neutral
+33,Standard features and normal performance.,0,Neutral
+34,"Not sure yet, still testing ...",-1,Negative
+35,Customer support was unhelpful and slow :(,-2,Negative
+36,"Brilliant performance, would definitely recommend!",2,Positive
+37,Customer support was helpful and responsive :),2,Positive
+38,Decent but could be better :(,0,Neutral
+39,Service was acceptable overall :(,0,Neutral
+40,I tried it briefly and it seemed fine.,0,Neutral
+41,"Loved it, superb value for money.",2,Positive
+42,Poor quality and hard to use :(,-2,Negative
+43,"I hate this, it was terrible ...",-2,Negative
+44,Decent but could be better,0,Neutral
+45,"Awful performance, I would not recommend :(",-1,Negative
+46,"Five stars, flawless from start to finish!",2,Positive
+47,"Great product, exceeded my expectations :(",2,Positive
+48,Poor quality and hard to use ...,-2,Negative
+49,The design is ugly and the results are weak :(,-2,Negative
+50,Nothing worked properly for me :),-1,Negative
+51,Nothing worked properly for me :),-1,Negative
+52,Standard features and normal performance!,0,Neutral
+53,"Great product, exceeded my expectations ...",2,Positive
+54,"Did not like it at all, bad value :)",-1,Negative
+55,The product works as expected :(,0,Neutral
+56,"I am very satisfied, the experience was wonderful ...",2,Positive
+57,"Did not like it at all, bad value.",-1,Negative
+58,"I absolutely love this movie, it was fantastic ...",2,Positive
+59,"I am not satisfied, the experience was horrible :(",-1,Negative
+60,Poor quality and hard to use :),-2,Negative
+61,"I hate this, it was terrible",-2,Negative
+62,"I absolutely love this movie, it was fantastic",2,Positive
+63,"Brilliant performance, would definitely recommend :)",2,Positive
+64,"I am not satisfied, the experience was horrible.",-1,Negative
+65,The product works as expected ...,0,Neutral
+66,"Average experience, neither good nor bad",-1,Negative
+67,Nothing worked properly for me,-1,Negative
+68,"I am very satisfied, the experience was wonderful.",2,Positive
+69,"Five stars, flawless from start to finish!",2,Positive
+70,Poor quality and hard to use ...,-2,Negative
+71,"Loved it, superb value for money!",2,Positive
+72,"Brilliant performance, would definitely recommend!",2,Positive
+73,Very disappointing and a complete waste :),-2,Negative
+74,Service was acceptable overall ...,0,Neutral
+75,"I am not satisfied, the experience was horrible ...",-1,Negative
+76,Customer support was helpful and responsive,2,Positive
+77,I tried it briefly and it seemed fine,0,Neutral
+78,"Not sure yet, still testing :(",-1,Negative
+79,"Great product, exceeded my expectations.",2,Positive
+80,"Five stars, flawless from start to finish",2,Positive
+81,"Great product, exceeded my expectations",2,Positive
+82,I tried it briefly and it seemed fine :(,0,Neutral
+83,I have mixed feelings about this.,0,Neutral
+84,"Great product, exceeded my expectations",2,Positive
+85,Very disappointing and a complete waste ...,-2,Negative
+86,"It was okay, nothing special ...",-1,Negative
+87,"Brilliant performance, would definitely recommend.",2,Positive
+88,Customer support was unhelpful and slow.,-2,Negative
+89,"Brilliant performance, would definitely recommend :(",2,Positive
+90,"Five stars, flawless from start to finish.",2,Positive
+91,"Great product, exceeded my expectations.",2,Positive
+92,The design is elegant and the results are impressive!,2,Positive
+93,"One star, problems from start to finish :)",-2,Negative
+94,The design is ugly and the results are weak :(,-2,Negative
+95,"One star, problems from start to finish :)",-2,Negative
+96,"I am not satisfied, the experience was horrible",-1,Negative
+97,"Not sure yet, still testing :(",-1,Negative
+98,Standard features and normal performance :),0,Neutral
+99,Nothing worked properly for me.,-1,Negative
+100,Amazing quality and very easy to use :(,2,Positive
